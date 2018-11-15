@@ -1,7 +1,4 @@
-README
-
-File description: Read me first file
-
+# check_ping
 
 O check_ping.sh é um script escrito em bash e é usado como substituto para o 
 plugin oficial do Nagios check_ping. A diferença entre entre este script e o 
